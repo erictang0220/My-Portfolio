@@ -1,0 +1,51 @@
+/* .pic:hover {
+    /* transition: opacity 1s;
+    opacity: 0.3; */
+
+.hide {
+    display: none;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.container:hover > .pic{
+    transition: opacity 1s;
+    opacity: 0.3;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    /* height: 100%; */
+  }
+
+.hide:hover {
+    display: block;
+    color:black;
+    opacity: 3.33;
+}
+
+.pic:hover + .hide {
+    display: block;
+    color:black;
+}
+
+.item {
+    perspective: 1000;
+    backface-visibility: hidden;
+    /* will-change: transform; */
+    transform-style: preserve-3d;
+    /* transform-style: preserve-2d; */
+    /* 
+    backface-visibility: hidden;
+    will-change: transform, transition;
+    display:flex;
+    position: relative; */
+}

@@ -1,26 +1,26 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Hi there!",
+    "description":"I'm Eric Tang, a software engineering student dabbling in different fields of softare. I have experiences with biomedical imaging and web development",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"I'm fluent in C, C++, Python, and I have good understanding JavaScript, HTML, CSS",
+    "contactmessage":"Please let me know if you have any questions about my projects or artwork!",
+    "email": "erictang0220@gmail.com",
+    "phone": "512-599-0639",
+    "github":"https://github.com/erictang0220",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"7217 Ellaview Lane",
+      "city":"Austin",
+      "state":"Texas",
+      "zip": "78759"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/profile.php?id=100018234911336",
         "className":"fa fa-facebook"
       },
       {
@@ -30,79 +30,142 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/erictang24",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/ericc_tang/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/erictang0220",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of the programming languages and software tools I know",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of California-Los Angeles",
+        "degree":"Bachelor's of Science in Computer Science and Engineering",
+        "graduated":"December 2023",
+        "description":"I am the IEEE-Eta Kappa Nu Membership Chair. My responsibilities include organizing orientation and induction ceremony for 50+ members.I'm also a member of Honor Societies UPE and ALD|PES and enlisted in Dean’s Honors for all terms. Some of the relevant courseworks I have done at UCLA are Data structures & Algorithms, Object Oriented Programming, Assembly Languages, Parallel Programming, Linear Algebra, Multivariable Calculus, Electromagnetism"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Biomedical Imaging Research Institute, Cedars-Sinai Medical Center",
+        "title":"Research Intern",
+        "years":"June 2021 - December 2021",
+        "description":"Designed and coded simulated prostate shim coils to correct the off-resonance caused by rectal air under MRI scans. Implemented genetic algorithm, data augmentation, and parallel programming to optimize coil position. Engineered experiment apparatus for use on volunteers and pigs at the Research Imaging Core. Improved prostate field homogeneity by 35% for easier identification of prostate cancer. Utilized deep learning to segment twelve organs with 96% success rate"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Cedars-Sinai Medical Center",
+        "title":"Research Apprentice",
+        "years":"May 2020 - Mar 2021",
+        "description":"Simulated MRI’s B0 magnetic field distortion from whole-body CT images to speed up experiments. Utilized Light Fidelity between IR LEDs and photodiodes to improve patient communication during MRI scans. Synchronized data on cloud for easier access and modification"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"C++",
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"MATLAB",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Linux",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
         "level":"50%"
+      }
+      
+    ]
+  },
+  "art":{
+    "pieces": [
+      {
+        "name": "Sprint to Success",
+        "image": "horse.jpg",
+        "date": "3/2/2020",
+        "story": ""
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name": "Welcoming Fortune",
+        "image": "square.jpeg",
+        "date": "12/5/2019",
+        "story": ""
+      },
+      {
+        "name": "Joy of Reading in Four Seasons",
+        "image": "joy.jpg",
+        "date": "3/2/2018",
+        "story": ""
+      },
+      {
+        "name": "Optimism in Rain",
+        "image": "parasol.jpeg",
+        "date": "2/9/2020",
+        "story": ""
+      },
+      {
+        "name": "Peony of Fortune",
+        "image": "peony.jpeg",
+        "date": "4/8/2019",
+        "story": ""
+      },
+      {
+        "name": "Corruption",
+        "image": "pipaxing.jpg",
+        "date": "7/5/2019",
+        "story": ""
+      },
+      {
+        "name": "Winter Dies and Spring Arrives",
+        "image": "couplet.jpeg",
+        "date": "2/20/2019",
+        "story": ""
+      },
+      {
+        "name": "Optimism in Rain",
+        "image": "xingshu.jpeg",
+        "date": "3/10/2020",
+        "story": ""
       }
     ]
   },

@@ -2,23 +2,27 @@
 
 ### [LIVE DEMO](https://erictang0220.github.io/my-app/)
 
+## Description
+This website is the documentation of my professional experiences and passion in arts. It's also a good practice for me to solidify my web developing skills.
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
-
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
+This website is written in React incorporating ideas of a work from a previous [author](https://github.com/tbakerx). I made some modifications to better suit my vision of incorporating my hobby and profession. Some features include the following:
+* Adpatation of navigation bar on mobile
+* Dynamic background utilizing [particles-bg](https://www.npmjs.com/package/particles-bg)
+* Image carasoul inlcuding hover and zoom effect
+* Contact Form
+![](https://i.imgur.com/9Ejz6Ot.gif)
+![](https://i.imgur.com/GQGFY2R.gif)
 ## Installation
-### 1. Clone the project
+1. Clone the project
 ```shell
 git clone https://github.com/erictang0220/my-app
 ```
-### 2. Run the project
+2. Run the project
 ```shell
 npm install
 npm start
 ```
 
-## Credit
+## Credits
+[portfoliio inspiration](https://github.com/tbakerx/react-resume-template)
+[Carousel inspiration](https://react-multi-carousel.vercel.app/)

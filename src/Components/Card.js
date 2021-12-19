@@ -10,12 +10,12 @@ export default function Card(props) {
     const name = props.info.name;
     const date = props.info.date;
     const story = props.info.story;
-    const pic = "images/artImages/"+props.info.image;
+    const pic = "/images/artImages/"+props.info.image;
     return(
             <div className="container item">
                 <div className="pic">
                     <Zmage 
-                    src={pic}/>
+                    src={process.env.PUBLIC_URL+pic}/>
                 </div>
                 <div className="hide text">
                     <p>

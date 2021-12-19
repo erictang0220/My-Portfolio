@@ -31,10 +31,9 @@ export default function FullCarousel(props) {
     else tmp = props.data.pieces;
     const allArt = tmp.map((piece) => {
         return (
-            <Card info={piece}/>
+            <Card key={piece.name} info={piece}/>
         );
     });
-    // console.log(props.data);
 
     return (
         <section id="gallery">
@@ -66,9 +65,9 @@ export default function FullCarousel(props) {
                     responsive={response}
                     ssr={true} // means to render carousel on server-side.
                     infinite={true}
-                    autoPlay={!isMobile}
+                    autoPlay={false}
                     // autoPlaySpeed={100000000}
-                    keyBoardControl={true}
+                    keyBoardControl={false}
                     // customTransition="all .5"
                     transitionDuration={500}
                     containerClass="carousel-container-with-arrow"

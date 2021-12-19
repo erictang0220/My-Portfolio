@@ -10,6 +10,7 @@ This website is written in React incorporating ideas of a work from a previous [
 * Dynamic background utilizing [particles-bg](https://www.npmjs.com/package/particles-bg)
 * Image carasoul inlcuding hover and zoom effect
 * Contact Form
+
 ![](https://i.imgur.com/9Ejz6Ot.gif)
 ![](https://i.imgur.com/GQGFY2R.gif)
 ## Installation

@@ -12,6 +12,8 @@ This website is written in React incorporating ideas of a work from a previous [
 * Contact Form
 
 ![](https://i.imgur.com/9Ejz6Ot.gif)
+
+
 ![](https://i.imgur.com/GQGFY2R.gif)
 ## Installation
 1. Clone the project

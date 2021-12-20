@@ -1,0 +1,248 @@
+{
+  "main": {
+    "name":"Hi there!",
+    "description":"I'm Eric Tang, a software engineering student dabbling in different fields of softare. I have experiences with biomedical imaging and web development",
+    "image":"profilepic.jpg",
+    "bio":"I'm fluent in C, C++, Python, and I have good understanding JavaScript, HTML, CSS",
+    "contactmessage":"Please let me know if you have any questions about my projects or artwork!",
+    "email": "erictang0220@gmail.com",
+    "phone": "512-599-0639",
+    "github":"https://github.com/erictang0220",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"7217 Ellaview Lane",
+      "city":"Austin",
+      "state":"Texas",
+      "zip": "78759"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100018234911336",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/erictang24",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ericc_tang/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/erictang0220",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the programming languages and software tools I know",
+    "education":[
+      {
+        "school":"University of California-Los Angeles",
+        "degree":"Bachelor's of Science in Computer Science and Engineering",
+        "graduated":"December 2023",
+        "description":"I am the IEEE-Eta Kappa Nu Membership Chair. My responsibilities include organizing orientation and induction ceremony for 50+ members.I'm also a member of Honor Societies UPE and ALD|PES and enlisted in Dean’s Honors for all terms. Some of the relevant courseworks I have done at UCLA are Data structures & Algorithms, Object Oriented Programming, Assembly Languages, Parallel Programming, Linear Algebra, Multivariable Calculus, Electromagnetism"
+      }
+    ],
+    "work":[
+      {
+        "company":"Biomedical Imaging Research Institute, Cedars-Sinai Medical Center",
+        "title":"Research Intern",
+        "years":"June 2021 - December 2021",
+        "description":"Designed and coded simulated prostate shim coils to correct the off-resonance caused by rectal air under MRI scans. Implemented genetic algorithm, data augmentation, and parallel programming to optimize coil position. Engineered experiment apparatus for use on volunteers and pigs at the Research Imaging Core. Improved prostate field homogeneity by 35% for easier identification of prostate cancer. Utilized deep learning to segment twelve organs with 96% success rate"
+      },
+      {
+        "company":"Cedars-Sinai Medical Center",
+        "title":"Research Apprentice",
+        "years":"May 2020 - Mar 2021",
+        "description":"Simulated MRI’s B0 magnetic field distortion from whole-body CT images to speed up experiments. Utilized Light Fidelity between IR LEDs and photodiodes to improve patient communication during MRI scans. Synchronized data on cloud for easier access and modification"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Linux",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      }
+      
+    ]
+  },
+  "art":{
+    "pieces": [
+      {
+        "name": "Sprint to Success",
+        "image": "horse.jpg",
+        "date": "3/2/2020",
+        "story": ""
+      },
+      {
+        "name": "Welcoming Fortune",
+        "image": "square.jpeg",
+        "date": "12/5/2019",
+        "story": ""
+      },
+      {
+        "name": "Joy of Reading in Four Seasons",
+        "image": "joy.jpg",
+        "date": "3/2/2018",
+        "story": ""
+      },
+      {
+        "name": "Optimism in Rain",
+        "image": "parasol.jpeg",
+        "date": "2/9/2020",
+        "story": ""
+      },
+      {
+        "name": "Peony of Fortune",
+        "image": "peony.jpeg",
+        "date": "4/8/2019",
+        "story": ""
+      },
+      {
+        "name": "Corruption",
+        "image": "pipaxing.jpg",
+        "date": "7/5/2019",
+        "story": ""
+      },
+      {
+        "name": "Winter Dies and Spring Arrives",
+        "image": "couplet.jpeg",
+        "date": "2/20/2019",
+        "story": ""
+      },
+      {
+        "name": "Optimism in Rain",
+        "image": "xingshu.jpeg",
+        "date": "3/10/2020",
+        "story": ""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}

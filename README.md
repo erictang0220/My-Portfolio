@@ -28,4 +28,5 @@ npm start
 
 ## Credits
 [portfoliio inspiration](https://github.com/tbakerx/react-resume-template)
+
 [Carousel inspiration](https://react-multi-carousel.vercel.app/)

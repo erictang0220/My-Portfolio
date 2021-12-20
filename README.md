@@ -1,6 +1,6 @@
 # My portfolio :page_with_curl: 💻🧑🏼‍🎨
 
-### [LIVE DEMO](https://erictang0220.github.io/my-app/)
+### [LIVE DEMO](https://erictang0220.github.io/My-Portfolio/)
 
 ## Description
 This website is the documentation of my professional experiences and passion in arts. It's also a good practice for me to solidify my web developing skills.

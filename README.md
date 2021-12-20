@@ -18,7 +18,7 @@ This website is written in React incorporating ideas of a work from a previous [
 ## Installation
 1. Clone the project
 ```shell
-git clone https://github.com/erictang0220/my-app
+git clone https://github.com/erictang0220/My-Portfolio
 ```
 2. Run the project
 ```shell

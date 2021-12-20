@@ -1,4 +1,4 @@
-# My portfolio :page_with_curl:
+# My portfolio :page_with_curl: 💻🧑🏼‍🎨
 
 ### [LIVE DEMO](https://erictang0220.github.io/my-app/)
 

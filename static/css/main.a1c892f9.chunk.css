@@ -1,2 +1,0 @@
-.hide{display:none}.text{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.container:hover>.pic{transition:opacity 1s;opacity:.3}.container{position:relative;text-align:center;padding-left:5px;padding-right:5px}.hide:hover{opacity:1}.hide:hover,.pic:hover+.hide{display:block;color:#000}.item{-webkit-perspective:1000;perspective:1000;-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transform-style:preserve-3d;transform-style:preserve-3d}
-/*# sourceMappingURL=main.a1c892f9.chunk.css.map */

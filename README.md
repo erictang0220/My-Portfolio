@@ -1,29 +1,32 @@
-# React Nice Resume :page_with_curl:
+# My portfolio :page_with_curl: 💻🧑🏼‍🎨
 
-### [LIVE DEMO](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
+### [LIVE DEMO](https://erictang0220.github.io/My-Portfolio/)
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+## Description
+This website is the documentation of my professional experiences and passion in arts. It's also a good practice for me to solidify my web developing skills.
 
-# About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
-#### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
+This website is written in React incorporating ideas of a work from a previous [author](https://github.com/tbakerx). I made some modifications to better suit my vision of incorporating my hobby and profession. Some features include the following:
+* Adpatation of navigation bar on mobile
+* Dynamic background utilizing [particles-bg](https://www.npmjs.com/package/particles-bg)
+* Image carasoul inlcuding hover and zoom effect
+* Contact Form
 
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
+![](https://i.imgur.com/9Ejz6Ot.gif)
 
-# Description
-This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), I made some modifications and adjustments, thanks to the [author](https://github.com/tbakerx).
 
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img2.jpg?raw=true)
-
-# Run Project
-### 1. Clone the project
-
-### 2. Run the project
+![](https://i.imgur.com/GQGFY2R.gif)
+## Installation
+1. Clone the project
 ```shell
-npm i
+git clone https://github.com/erictang0220/My-Portfolio
+```
+2. Run the project
+```shell
+npm install
 npm start
 ```
 
-### 3. Build
-```shell
-npm run build
-```
+## Credits
+[portfoliio inspiration](https://github.com/tbakerx/react-resume-template)
+
+[Carousel inspiration](https://react-multi-carousel.vercel.app/)

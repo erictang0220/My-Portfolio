@@ -1,10 +1,9 @@
 import React from "react";
 import Card from "./Card"
 import Carousel from "react-multi-carousel";
-import { Fade, Slide } from "react-reveal";
+import Slide from "react-reveal";
 import "react-multi-carousel/lib/styles.css";
 import {isMobile} from 'react-device-detect';
-import "./FullCarousel.css";
 
 import pic from "/Users/erictang/tmpWeb/src/img.jpg";
 const response = {
@@ -37,11 +36,7 @@ export default function FullCarousel(props) {
 
     return (
         <section id="gallery">
-        <Slide left duration={2000}>
-            <div
-                style={{
-                    backgroundColor: "#ebeeee",
-                  }}>
+          <Slide left duration={2000}>
                 <h4
                     style={{
                         textAlign: "center",
@@ -54,6 +49,7 @@ export default function FullCarousel(props) {
                       }}
                 > ART GALLERY
                 </h4>
+                
                 <Carousel
                     swipeable={false}
                     draggable={false}
@@ -85,8 +81,8 @@ export default function FullCarousel(props) {
                     {allArt}
                     
                 </Carousel>
-            </div> 
-        </Slide>
+              </Slide>
+          
         </section>
     );
 }

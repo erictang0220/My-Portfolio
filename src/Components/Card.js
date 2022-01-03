@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import "./Card.css";
 import Zmage from "react-zmage";
+import Slide from "react-reveal";
 // import {StyleSheet, Image, View} from 'react-native';
 
 
@@ -12,7 +13,8 @@ export default function Card(props) {
     const story = props.info.story;
     const pic = "/images/artImages/"+props.info.image;
     return(
-            <div className="container item">
+        <Slide>
+            <div className="container">
                 <div className="pic">
                     <Zmage 
                     src={process.env.PUBLIC_URL+pic}/>
@@ -25,5 +27,6 @@ export default function Card(props) {
                     </p>
                 </div>
             </div>
+        </Slide>
     );
 }

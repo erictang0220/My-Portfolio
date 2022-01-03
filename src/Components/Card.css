@@ -36,16 +36,3 @@
     display: block;
     color:black;
 }
-
-.item {
-    perspective: 1000;
-    backface-visibility: hidden;
-    /* will-change: transform; */
-    transform-style: preserve-3d;
-    /* transform-style: preserve-2d; */
-    /* 
-    backface-visibility: hidden;
-    will-change: transform, transition;
-    display:flex;
-    position: relative; */
-}

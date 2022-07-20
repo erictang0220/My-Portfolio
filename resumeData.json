@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Hi there!",
-    "description":"I'm Eric Tang, a software engineering student dabbling in different fields of softare. I have experiences with biomedical imaging and web development",
+    "description":"I'm Eric Tang, a UCLA software engineering student dabbling in different fields of software. I have experiences with autonomous vehicle programming, biomedical imaging, and web development.",
     "image":"profilepic.jpg",
-    "bio":"I'm fluent in C, C++, Python, and I have good understanding JavaScript, HTML, CSS",
+    "bio":"I'm fluent in C++, C, Python, MatLab, and I have good understanding JavaScript, HTML, CSS.",
     "contactmessage":"Please let me know if you have any questions about my projects or artwork!",
     "email": "erictang0220@gmail.com",
     "phone": "512-599-0639",
@@ -51,22 +51,28 @@
       {
         "school":"University of California-Los Angeles",
         "degree":"Bachelor's of Science in Computer Science and Engineering",
-        "graduated":"December 2023",
-        "description":"I am the IEEE-Eta Kappa Nu Membership Chair. My responsibilities include organizing orientation and induction ceremony for 50+ members.I'm also a member of Honor Societies UPE and ALD|PES and enlisted in Dean’s Honors for all terms. Some of the relevant courseworks I have done at UCLA are Data structures & Algorithms, Object Oriented Programming, Assembly Languages, Parallel Programming, Linear Algebra, Multivariable Calculus, Electromagnetism"
+        "graduated":"March 2024",
+        "description":"I was the IEEE-Eta Kappa Nu Membership Chair from 2021-2022. My responsibilities included organizing orientation and induction ceremony for 50+ members. I'm also a member of Honor Societies UPE and ALD|PES and enlisted in Dean’s Honors for all terms. Some of the relevant courseworks I have done at UCLA are Data Structures & Algorithms, Object Oriented Programming, Assembly Languages, Parallel Programming, Operating System, iOS App Development (CodePath certified), Automata Theory, Linear Algebra, Multivariable Calculus, Electromagnetism."
       }
     ],
     "work":[
       {
+        "company":"Cruise LLC",
+        "title":"Software Engineering Intern",
+        "years":"June 2022 - September 2022",
+        "description":"Implement 3 heuristic functions to identify the causes of unintended autonomous vehicle (AV) stops during human handovers. Enable Cruise to expand the AV self-driving zone in San Francisco."
+      },
+      {
         "company":"Biomedical Imaging Research Institute, Cedars-Sinai Medical Center",
         "title":"Research Intern",
         "years":"June 2021 - December 2021",
-        "description":"Designed and coded simulated prostate shim coils to correct the off-resonance caused by rectal air under MRI scans. Implemented genetic algorithm, data augmentation, and parallel programming to optimize coil position. Engineered experiment apparatus for use on volunteers and pigs at the Research Imaging Core. Improved prostate field homogeneity by 35% for easier identification of prostate cancer. Utilized deep learning to segment twelve organs with 96% success rate"
+        "description":"Designed and coded simulated prostate shim coils to correct the off-resonance caused by rectal air under MRI scans. Implemented genetic algorithm, data augmentation, and parallel programming to optimize coil position. Engineered experiment apparatus for use on volunteers and pigs at the Research Imaging Core. Improved prostate field homogeneity by 35% for easier identification of prostate cancer. Utilized deep learning to segment twelve organs with 96% success rate."
       },
       {
         "company":"Cedars-Sinai Medical Center",
         "title":"Research Apprentice",
         "years":"May 2020 - Mar 2021",
-        "description":"Simulated MRI’s B0 magnetic field distortion from whole-body CT images to speed up experiments. Utilized Light Fidelity between IR LEDs and photodiodes to improve patient communication during MRI scans. Synchronized data on cloud for easier access and modification"
+        "description":"Simulated MRI’s B0 magnetic field distortion from whole-body CT images to speed up experiments. Utilized Light Fidelity between IR LEDs and photodiodes to improve patient communication during MRI scans. Synchronized data on cloud for easier access and modification."
       }
     ],
     "skills":[
@@ -95,8 +101,8 @@
         "level":"75%"
       },
       {
-        "name":"JavaScript",
-        "level":"75%"
+        "name":"Swift",
+        "level":"60%"
       },
       {
         "name":"C",

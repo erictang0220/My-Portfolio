@@ -5,7 +5,7 @@ import Slide from "react-reveal";
 import "react-multi-carousel/lib/styles.css";
 import {isMobile} from 'react-device-detect';
 
-import pic from "/Users/erictang/tmpWeb/src/img.jpg";
+import pic from "/Users/erictang/Desktop/portfolio web/src/img.jpg";
 const response = {
   desktop: {
     breakpoint: { max: 3000, min: 1024 },
